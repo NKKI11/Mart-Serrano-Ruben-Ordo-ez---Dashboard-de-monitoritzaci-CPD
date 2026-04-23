@@ -21,3 +21,18 @@ Convertir un ESP32 en un servidor web que monitoritzi la temperatura d'una sala 
 - Password: Hola1234
 
 ## 📁 Estructura del projecte
+practica3/
+├── README.md
+├── src/
+│ └── main.ino
+└── doc/
+├── esquema_connexions.fzz
+└── diagrama_flux.png
+
+
+## 🎥 Vídeo demostració
+[Enllaç al vídeo](URL_DEL_VIDEO)
+
+## 👨‍💻 Autors
+- Martí Serrano
+- Ruben Ordoñez
