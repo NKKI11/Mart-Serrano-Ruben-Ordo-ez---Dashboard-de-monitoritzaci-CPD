@@ -31,7 +31,7 @@ practica3/
 
 
 ## 🎥 Vídeo demostració
-[Enllaç al vídeo](URL_DEL_VIDEO)
+[Enllaç al vídeo](https://drive.google.com/file/d/1RN_FvXEqzycBh249lqbywE7-cWm-Qyju/view?usp=sharing)
 
 ## 👨‍💻 Autors
 - Martí Serrano
